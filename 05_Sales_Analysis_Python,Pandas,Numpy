@@ -1,0 +1,15 @@
+# Sales Performance & Customer Insights Analysis
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+
+## Description
+Performed sales data analysis using Python, Pandas, and NumPy.
+Analyzed completed transactions, total revenue, and regional performance.
+
+## Key Insights
+- Identified high-performing regions
+- Calculated revenue and average order value
+- Department-wise sales analysis
